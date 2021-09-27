@@ -204,6 +204,86 @@ Contracts selection in same increments as it was expanded.
 
 ![Perform Edit.ContractSelection shortcut](animations/Edit.ContractSelection.gif)
 
+### .ConvertSpacesToTabs
+
+Converts spaces on current line or selection to tabs.
+
+1. Convert on current line
+![Perform Edit.ConvertSpacesToTabs shortcut](animations/Edit.ConvertSpacesToTabs_1.gif)
+
+1. Convert on selection
+![Perform Edit.ConvertSpacesToTabs shortcut](animations/Edit.ConvertSpacesToTabs_2.gif)
+
+### .ConvertTabsToSpaces
+
+Converts tabs on current line or selection to spaces.
+
+1. Convert on current line
+    ![Perform Edit.ConvertTabsToSpaces shortcut](animations/Edit.ConvertTabsToSpaces_1.gif)
+
+1. Convert on selection
+    ![Perform Edit.ConvertTabsToSpaces shortcut](animations/Edit.ConvertTabsToSpaces_2.gif)
+
+### .Copy
+
+1. Without selection: Copies line with cursor to clipboard.
+1. With selection: Copies selected text to clipboard.
+
+### .CopyDiagramtoClipboard
+### .CopyParameterTip
+
+🤷‍♂️
+
+### .CR
+
+Change the document line ending to `CR`
+
+![Perform Edit.CR shortcut](animations/Edit.CR.gif)
+
+### .CreateCopyofWorkItem
+
+🤷‍♂️
+
+### .CRLF
+
+Change the document line ending to `CRLF`
+
+![Perform Edit.CRLF shortcut](animations/Edit.CRLF.gif)
+
+### .Cut
+
+1. Without selection: Cuts line with cursor to clipboard.
+1. With selection: Cuts selected text to clipboard.
+
+### .CycleClipboardRing
+
+Cycles through the text you've put on the clipboard in Visual Studio.
+
+![Perform Edit.CycleClipboardRing shortcut](animations/Edit.CycleClipboardRing.gif)
+
+### .DecreaseFilterLevel
+
+🤷‍♂️
+
+### .DecreaseLineIndent
+
+Decreases the line indent wherever your cursor is placed on the line.
+
+![Perform Edit.DecreaseLineIndent shortcut](animations/Edit.DecreaseLineIndent.gif)
+
+### .Delete
+
+Deletes the first character in front of the cursor or selected text.
+
+1. Delete character
+
+    ![Perform Edit.Delete shortcut](animations/Edit.Delete_1.gif)
+
+1. Delete selection
+
+    ![Perform Edit.Delete shortcut](animations/Edit.Delete_2.gif)
+
+
 ### .EmacsActivateRegion	
 ### .EmacsBottomOfWindow	
 ### .EmacsBreakLine	
@@ -275,6 +355,12 @@ Expands the collapsed region the cursor currently is within.
 Expands selection in increments according to the code.
 
 ![Perform Edit.ExpandSelection shortcut](animations/Edit.ExpandSelection.gif)
+
+### .LF
+
+Change the document line ending to `LF`
+
+![Perform Edit.LF shortcut](animations/Edit.LF.gif)
 
 ### .UncommentSelection
 
